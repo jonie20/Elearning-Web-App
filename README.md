@@ -10,9 +10,6 @@
 
 <br />
 
-### Desktop Preview
-
-https://github.com/pawantech12/webtutorial-website/assets/118673866/4bd69e1b-9dc0-4752-a559-d3ab392c2629
 
 ### Prerequisites
 
