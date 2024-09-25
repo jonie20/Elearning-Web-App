@@ -6,12 +6,6 @@
 
   <br />
 
-  <h2 align="center">Responsive Educational Website</h2>
-
-  WebTutorial is fully responsive educational website made using HTML, CSS, and JavaScript.
-
-  <a href="https://pawantech12.github.io/webtutorial-website/"><strong>➥ Live Demo</strong></a>
-
 </div>
 
 <br />
